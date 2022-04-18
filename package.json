@@ -1,0 +1,22 @@
+{
+  "name": "Monitor-discord-bot",
+  "version": "1.0.0",
+  "description": "A simple bot discord to monitor websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vayd",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "chalk": "^2.4.2",
+    "discord-api-types": "^0.31.0",
+    "discord.js": "^13.6.0",
+    "https": "^1.0.0",
+    "moment": "^2.29.2",
+    "mongoose": "^6.2.10",
+    "valid-url": "^1.0.9"
+  }
+}
